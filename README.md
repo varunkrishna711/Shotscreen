@@ -14,4 +14,4 @@ Steps to run the app:
 You can also view the app <a href="shotscreen2023.vercel.app">here</a>
 
 
-I would like to thank <a href="https://www.github.com/rapidAPI.com">RapidAPI</a> for guiding me through the project and providing the necessary API.
+I would like to thank <a href="https://www.github.com/rapidAPI">RapidAPI</a> for guiding me through the project and providing the necessary API.
